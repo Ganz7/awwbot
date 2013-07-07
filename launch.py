@@ -1,3 +1,14 @@
+'''
+File : Launch.py
+Author : Ganz7 (ganzse7en@gmail.com)
+Description : A basic irc bot. 
+
+Todo: 1) Needs refactoring.
+      2) Extend the features.
+      3) Cannot stay inhibited for long
+
+'''
+
 import socket
 import sys
 from random import randint
